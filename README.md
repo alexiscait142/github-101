@@ -1,3 +1,3 @@
 Were my changes added?
 Yes they were!
-NEW CHANGE
+NEW CHANGE for readme
